@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\eie_ascii-01.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\..\HOMEWORK-ANTMaster-master\终极版作业\HOMEWORK-ANTMaster--\sennding TestMessage\firmware_mpgl1\iar_7_20_1\mpgl1-efmw-01.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
